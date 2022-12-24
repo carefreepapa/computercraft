@@ -1,1 +1,1 @@
-TODO
+print("installing computercraft scripts")
