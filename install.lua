@@ -1,6 +1,6 @@
 print("installing computercraft scripts")
 
-local git_repo = "https://raw.githubusercontent.com/carefreepapa/computercraft/main"
+local git_repo = "https://raw.githubusercontent.com/carefreepapa/computercraft/main/"
 local files = {
     "constants.lua",
     "vector.lua",
